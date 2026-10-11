@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Junaid 👋
 
-<!--
-**the-junaid-dev/the-junaid-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | SQL • Python • Excel
 
-Here are some ideas to get you started:
+I'm a BCA student interested in Data Analytics and Business Intelligence. I'm building practical skills to turn raw data into meaningful insights and support better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, Excel
+- **Visualization:** Matplotlib
+- **Currently Learning:** Power BI
+
+### 📊 What I'm Working On
+
+- Improving my SQL and Python skills through hands-on practice.
+- Learning to clean, analyze, and visualize datasets.
+- Building practical data analytics projects.
+- Developing my Business Intelligence skills.
+
+### 🎯 My Goal
+
+To become a skilled Data Analyst who can solve real-world problems using data.
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [Add your LinkedIn profile URL]
+- **Portfolio:** Coming soon
+
+---
+
+*Learn. Build. Analyze. Improve.*
